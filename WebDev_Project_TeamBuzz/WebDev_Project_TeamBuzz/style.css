@@ -1,0 +1,35 @@
+
+body {
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+
+}
+
+
+.wee {
+background-color: bisque;
+font-size: large;
+
+}
+
+
+h3 {
+
+font-style: italic;
+background-color: bisque;
+
+
+
+
+}
+
+title {
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+background-color: bisque;
+border-radius: 6px;
+}
